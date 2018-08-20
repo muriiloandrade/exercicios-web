@@ -1,0 +1,7 @@
+console.log("O resultado de 7/0 é: " + 7/0)
+console.log("O resultado de 7/0.000001 é: " + 7/0.000001)
+console.log("O resultado de "+"7"+"/2 é: " + "7"/2)
+console.log("O resultado de "+"Show"+"/2 é:", "Show"/2)
+console.log("O resultado de 0.1 + 0.7 é: ", 0.1+0.7)
+// Erro de sintaxe console.log(10.toString())
+console.log((10.345).toFixed(2))
