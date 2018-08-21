@@ -1,0 +1,28 @@
+{
+  "name": "api_express",
+  "version": "1.0.0",
+  "description": "Uma API usando Express feita com finalidade de estudos pelo curso de desenvolvimento web da Udemy",
+  "main": "src/servidor.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/muriiloandrade/exercicios-web.git"
+  },
+  "keywords": [
+    "API",
+    "Express"
+  ],
+  "author": "Murilo Andrade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muriiloandrade/exercicios-web/issues"
+  },
+  "homepage": "https://github.com/muriiloandrade/exercicios-web#readme",
+  "dependencies": {
+    "body-parser": "1.18.2",
+    "express": "4.16.2"
+  }
+}
